@@ -21,10 +21,10 @@ hobbies: ["Football", "Movies", "Gaming"]
 ```
 
 ### Skills
+
 <div align="left" justify="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 </div>
-
 
 ### Socials
 
@@ -60,11 +60,9 @@ hobbies: ["Football", "Movies", "Gaming"]
       <img src="https://nigmatov.uz/images/leetcode.svg" width="26" height="32" /> 
     </picture> 
   </a>
-
-
 </p>
 
 ### Badges
-<img src="https://github-profile-trophy.vercel.app/?username=ibrohim-n">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ibrohim-n&stroke=ffffff&background=161B22&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
-<a href="http://www.github.com/ibrohim-n"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrohim-n&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[comment]: <img src="https://github-profile-trophy.vercel.app/?username=ibrohim-n&background=#0000">
