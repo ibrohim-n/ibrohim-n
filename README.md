@@ -1,8 +1,12 @@
-Hi 👋 My name is Ibrohim
-=
-<h2>I am <i>Frontend Developer</i></h2> 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000" height="400"/>
+
+<div>
+  <h1>Hi 👋 My name is Ibrohim</h1>
+  <h2> I am <i>Frontend Developer</i></h2>
+</div>
 
 ------------------
+### Properties
 ```yaml
 name: Ibrohim Nigmatov
 located_in: Tashkent, Uzbekistan
