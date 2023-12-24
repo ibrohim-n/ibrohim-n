@@ -63,6 +63,6 @@ hobbies: ["Football", "Movies", "Gaming"]
 </p>
 
 ### Badges
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ibrohim-n&stroke=ffffff&background=161B22&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ibrohim-n&stroke=ffffff&background=161B22&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /></a>
 
 [comment]: <img src="https://github-profile-trophy.vercel.app/?username=ibrohim-n&background=#0000">
